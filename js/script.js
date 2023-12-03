@@ -1,13 +1,13 @@
 /* ========== typing animation =================== */
-var typed = new Typed(".typing", {
-    strings: [
-        "Computer Science Student",
-        "MERN Stack Developer"
-    ],
-    typeSpeed: 100,
-    BackSpeed: 60,
-    loop: true,
-});
+// var typed = new Typed(".typing", {
+//     strings: [
+//         "Computer Science Student",
+//         "MERN Stack Developer"
+//     ],
+//     typeSpeed: 100,
+//     BackSpeed: 60,
+//     loop: true,
+// });
 
 /* ========== Aside =================== */
 const nav = document.querySelector(".nav"),
